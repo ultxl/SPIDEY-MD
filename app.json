@@ -1,6 +1,6 @@
 {
-  "name": "BUMBLEBEE",
-  "description": "WOLRD BEST AUTO BOT",
+  "name": "SPIDEY-MD",
+  "description": "WBEST AUTO BOT",
   "logo": "https://i.imgur.com/LyHic3i.gif",
   "keywords": ["bot"],
   "success_url": "/",
@@ -22,7 +22,7 @@
     "ALIVE_MSG": {
       "description": " alive message ",
       "required": true,
-      "value": "𝐇𝐢 𝐚𝐦 𝐁𝐮𝐦𝐛𝐥𝐞𝐛𝐞𝐞 𝐚𝐧 𝐚𝐮𝐭𝐨 𝐛𝐨𝐭 𝐟𝐫𝐨𝐦 𝐚𝐧𝐨𝐭𝐡𝐞𝐫 𝐮𝐧𝐢𝐯𝐞𝐫𝐬 𝐡𝐨𝐰 𝐜𝐚𝐧 𝐢 𝐚𝐬𝐬𝐢𝐬𝐭 𝐲𝐨𝐮🚀"
+      "value": "𝐇𝐢 𝐚𝐦 𝐬𝐩𝐢𝐝𝐞𝐲 𝐦𝐝 𝐚𝐧 𝐚𝐮𝐭𝐨 𝐛𝐨𝐭 𝐟𝐫𝐨𝐦 𝐚𝐧𝐨𝐭𝐡𝐞𝐫 𝐮𝐧𝐢𝐯𝐞𝐫𝐬 𝐡𝐨𝐰 𝐜𝐚𝐧 𝐢 𝐚𝐬𝐬𝐢𝐬𝐭 𝐲𝐨𝐮🚀"
     },
     
     "PREFIX": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": " your name.",
       "required": true,
-      "value": "𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄"
+      "value": "𝐒𝐏𝐈𝐃𝐄𝐘 𝐌𝐃"
     }, 
 
     "HEART_REACT": {
