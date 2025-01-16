@@ -33,7 +33,7 @@ src="https://i.imgur.com/LyHic3i.gif?"/>
 **2. Second Step** (_borrowed session_)
 
 <p align="left">
-<a href='https://bumblebee-qr.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='HTTPS://spidey-md-qr.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
@@ -51,7 +51,7 @@ src="https://i.imgur.com/LyHic3i.gif?"/>
 
 •Now deploy.
     <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/Blackarab-tech/Arab-v1' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/ultxl/spidey-md' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 **2. Railway**
 
@@ -126,7 +126,7 @@ jobs:
 <a><img
 ***src='https://i.imgur.com/LyHic3i.gif'/>
 
-`✠ HOW TO DEPLOY BUMBLEBEE ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
+`✠ HOW TO DEPLOY SPIDEY MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
 
 -------------
 
@@ -183,7 +183,7 @@ _I’m not responsible for you messing around and getting your account banned. A
 
 
 </p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F89C75F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THANK+YOU;FOR+USIN+SPIDEY+MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F89C75F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THANK+YOU;FOR+USING+SPIDEY+MD" alt="Typing SVG" /></a>
 
 
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
