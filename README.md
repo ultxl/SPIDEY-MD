@@ -17,8 +17,8 @@ src="https://i.imgur.com/LyHic3i.gif?"/>
 
  <p
 <p align='center'>
-    </p>
-<a><img src='https://imgur.com/tXffQ.jpeg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a
+ </p>
+ ![logo](https://raw.githubusercontent.com/ultxl/SPIDEY-MD/main/scc.jpg)
                                                                                                      
 
 **How to deploy**
