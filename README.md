@@ -16,10 +16,10 @@ src="https://i.imgur.com/LyHic3i.gif?"/>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/Blackarab-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=red&style=flat-square"></a>
-<a href="https://github.com/Blackarab-tech/Arab-v1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Blackarab-tech/Arab-v1?color=blue&style=flat-square"></a>
-<a href="https://github.com/Blackarab-tech/Arab-v1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Blackarab-tech/Arab-v1?color=blue&style=flat-square"></a>
-<a href="https://github.com/Blackarab-tech/Arab-1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Blackarab-tech/Arab-v1?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/hamixl/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=red&style=flat-square"></a>
+<a href="https://github.com/hamixl/Arab-v1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/hamixl/Arab-v1?color=blue&style=flat-square"></a>
+<a href="https://github.com/hamixl/Arab-v1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/hamixl/Arab-v1?color=blue&style=flat-square"></a>
+<a href="https://github.com/hamixl/Arab-1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/hamixl/Arab-v1?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Blackarab-tech/Arab-v1/"><img title="Size" src="https://img.shields.io/github/repo-size/Blackarab-tech/Arab-v1?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Blackarab-tech %2FArab-v1&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Blackarab-tech/Arab-v1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
