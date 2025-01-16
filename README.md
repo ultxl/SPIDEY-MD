@@ -189,5 +189,5 @@ _I’m not responsible for you messing around and getting your account banned. A
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
 
 <p align="center">
-  <a href="https://wa.me/+254785429940?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+bumble-bee+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+254785429940?text=Hey+Spidey--+i+need+help!.+i+mesaged+youᴜ+from+spidey-md+repo!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -black?style=for-the-badge&logo=whatsapp&logoColor=white" />
