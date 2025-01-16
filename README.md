@@ -18,7 +18,7 @@ src="https://i.imgur.com/LyHic3i.gif?"/>
  <p
 <p align='center'>
     </p>
-<a><img src='https://imgur.com/eqDReCu.jpeg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a
+<a><img src='https://i.imgur.com/KUUYRbq.jpeg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a
                                                                                                      
 
 **How to deploy**
