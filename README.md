@@ -30,10 +30,10 @@ src="https://i.imgur.com/LyHic3i.gif?"/>
 <p align="left">
 <a href='https://github.com/ultxl/spidey-md/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
    
-**2. Second Step** (_borrowed session_)
+**2. Second Step**  (_PAIR CODE_) 
 
 <p align="left">
-<a href='HTTPS://spidey-md-qr.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='http://site.ultspidey.tech/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
