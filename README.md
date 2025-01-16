@@ -18,9 +18,8 @@ src="https://i.imgur.com/LyHic3i.gif?"/>
  <p
 <p align='center'>
     </p>
-<a><img src='https://i.imgur.com/KUUYRbq.jpeg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
+<a><img src='https://i.imgur.com/KUUYRbq.jpeg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a
+![logo](https://raw.githubusercontent.com/ultxl/darkultxl/main/sc1.jpg)
 
 **How to deploy**
 
