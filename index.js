@@ -30,7 +30,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['254712267225']
+const ownerNumber = [254785429940']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/session/creds.json')) {
@@ -78,7 +78,7 @@ require("./plugins/" + plugin);
 }
 });
 console.log('𝙿𝙻𝚄𝙶𝙸𝙽𝚂 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽𝚂𝚃𝙰𝙻𝙻 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 ✅')
-console.log('Arab-v1 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝚃𝙾 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙴𝙽𝙹𝙾𝚈 ✅')
+console.log('spidey 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝚃𝙾 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙴𝙽𝙹𝙾𝚈 ✅')
 
 let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅ 
 
@@ -86,7 +86,7 @@ let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅
 
 *🔹 ᴘʀᴇғɪx:* .
 
-*🔹 ᴏᴡɴᴇʀ:* 254712267225
+*🔹 ᴏᴡɴᴇʀ:* 254785429940
 
 *🖇️Join My WhatsApp Group✓💗* 
 
@@ -157,19 +157,19 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
               if (mime.split("/")[0] === "audio") {
                 return conn.sendMessage(jid, { audio: await getBuffer(url), caption: caption, mimetype: 'audio/mpeg', ...options }, { quoted: quoted, ...options })
               }
-            }
+}
 //================ownerreact
-if(senderNumber.includes("254712267225")){
+if(senderNumber.includes("254785429940")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("254712267225")){
+if(senderNumber.includes("254785429940")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("254712267225")){
+if(senderNumber.includes("254785429940")){
 if(isReact) return
 m.react("🦋")
    }
@@ -239,9 +239,9 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("Bee is 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 ✅");
+res.send('spidey is 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 ✅");
 });
-app.listen(port, () => console.log(`Bee Server listening on port http://localhost:${port}`));
+app.listen(port, () => console.log(`spidey Server listening on port http://localhost:${port}`));
 setTimeout(() => {
 connectToWA()
 }, 4000);
