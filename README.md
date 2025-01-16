@@ -19,7 +19,8 @@ src="https://i.imgur.com/LyHic3i.gif?"/>
 <p align='center'>
     </p>
 <a><img src='https://i.imgur.com/KUUYRbq.jpeg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a
-![logo](https://raw.githubusercontent.com/ultxl/darkultxl/main/sc1.jpg)
+                                                                                                      
+ ![logo](https://raw.githubusercontent.com/ultxl/darkultxl/main/spidey.jpg)
 
 **How to deploy**
 
