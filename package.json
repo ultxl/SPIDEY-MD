@@ -1,13 +1,13 @@
 
 {
-  "name": "Arab-v1",
+  "name": "Spidey-V1",
   "version": "1.0.0",
-  "description": "A WhatsApp bot created by Malibu",
+  "description": "A WhatsApp bot created by Spidey",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MALVIN-XMD",
-    "stop": "pm2 stop MALVIN-XMD",
-    "restart": "pm2 restart MALVIN-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name SPIDEY-XMD",
+    "stop": "pm2 stop SPIDEY-XMD",
+    "restart": "pm2 restart SPIDEY-XMD"
   },
   "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
