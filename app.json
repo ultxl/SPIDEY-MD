@@ -1,0 +1,115 @@
+{
+  "name": "BUMBLEBEE",
+  "description": "WOLRD BEST AUTO BOT",
+  "logo": "https://i.imgur.com/LyHic3i.gif",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+    "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true,
+      "value": ""
+    },  
+    
+    "ALIVE_IMG": {
+      "description": "ALIVE URL.",
+      "required": true,
+      "value": "https://i.imgur.com/KUUYRbq.jpeg"
+    }, 
+    
+    "ALIVE_MSG": {
+      "description": " alive message ",
+      "required": true,
+      "value": "𝐇𝐢 𝐚𝐦 𝐁𝐮𝐦𝐛𝐥𝐞𝐛𝐞𝐞 𝐚𝐧 𝐚𝐮𝐭𝐨 𝐛𝐨𝐭 𝐟𝐫𝐨𝐦 𝐚𝐧𝐨𝐭𝐡𝐞𝐫 𝐮𝐧𝐢𝐯𝐞𝐫𝐬 𝐡𝐨𝐰 𝐜𝐚𝐧 𝐢 𝐚𝐬𝐬𝐢𝐬𝐭 𝐲𝐨𝐮🚀"
+    },
+    
+    "PREFIX": {
+      "description": " prefix.",
+      "required": true,
+      "value": "."
+    },
+    
+    "MODE": {
+      "description": " public-private-inbox-group.",
+      "required": true,
+      "value": "public"
+    }, 
+
+    "AUTO_VOICE": {
+      "description": " auto voice.",
+      "required": true,
+      "value": "false"
+    }, 
+
+    "AUTO_REPLY": {
+      "description": "auto reply.",
+      "required": true,
+      "value": "false"
+    }, 
+
+    "AUTO_STICKER": {
+      "description": " auto sticker.",
+      "required": true,
+      "value": "false"
+    }, 
+
+    "AUTO_READ_STATUS": {
+      "description": " auto_read_status.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "ANTI_LINK": {
+      "description": " remove group link.",
+      "required": true,
+      "value": "true"
+    },
+
+    "ANTI_BAD": {
+      "description": " auto delete bad words .",
+      "required": true,
+      "value": "false"
+    }, 
+
+    "FAKE_RECORDING": {
+      "description": " fake record.",
+      "required": true,
+      "value": "false"
+    },
+
+    "AUTO_REACT": {
+      "description": " AutoReact.",
+      "required": true,
+      "value": "false"
+    },
+
+    "OWNER_REACT": {
+      "description": " OwnerReact.",
+      "required": true,
+      "value": "false"
+    
+    }, 
+
+    "BOT_NAME": {
+      "description": " your name.",
+      "required": true,
+      "value": "𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄"
+    }, 
+
+    "HEART_REACT": {
+      "description": " reaction .",
+      "required": true,
+      "value": "false"
+    }
+
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
