@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+Fu<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 </p> <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F720C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SPIDEY+MD;MADE+BY+SPIDEY" alt="Typing SVG" /></a>
@@ -145,7 +145,7 @@ jobs:
 -------
 
 <p align="center">
-  <a href="https://wa.me/+254712267225?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+bumble-bee+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+254785429940?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+bumble-bee+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>  
@@ -155,7 +155,7 @@ jobs:
 
 ---------
 
-<a href="https://chat.whatsapp.com/CNZlSoRwP1eFOte9SvJFkD"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://chat.whatsapp.com/EWjLvrXVLzp3Vxn859FXHD"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 -----------
 
@@ -189,5 +189,5 @@ _I’m not responsible for you messing around and getting your account banned. A
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
 
 <p align="center">
-  <a href="https://wa.me/+254712267225?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+bumble-bee+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+254785429940?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+bumble-bee+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -black?style=for-the-badge&logo=whatsapp&logoColor=white" />
