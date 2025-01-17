@@ -16,11 +16,11 @@ let dec = `*👋 Hello 𝚑𝚞𝚖𝚊𝚗 ${pushname}*
 
 * 🇰🇪Support Channels💗*
 
-👨‍💻◦ Whatsapp  Link:* https://chat.whatsapp.com/CNZlSoRwP1eFOte9SvJFkD
+👨‍💻◦ Whatsapp  Link:* https://chat.whatsapp.com/EWjLvrXVLzp3Vxn859FXHD
 
-👨‍💻◦ *Telegram Link:* t.me/thetechpalace 
+👨‍💻◦ *Telegram Link:* t.me/techhami
 
-👨‍💻◦ *Github Profile Link:* https://github.com/Blackarab-tech 
+👨‍💻◦ *Github Profile Link:* https://github.com/ultxl
 
 > *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙱𝚞𝚖𝚋𝚕𝚎𝚋𝚎𝚎*
 `
