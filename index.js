@@ -50,7 +50,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙽𝙶 Arab v1🎭...");
+console.log("𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙽𝙶 spidey md🎭...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/session/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -94,7 +94,7 @@ let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅
 - : https://chat.whatsapp.com/CNZlSoRwP1eFOte9SvJFkD
 
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ MALIBU 🤹‍♂️ ʙᴇᴛᴀ ꜱᴇʀᴠɪᴄᴇ*`;
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ SPIDEY 🤹‍♂️ ʙᴇᴛᴀ ꜱᴇʀᴠɪᴄᴇ*`;
 conn.sendMessage(conn.user.id, { image: { url: `https://i.imgur.com/KUUYRbq.jpeg` }, caption: up })
 
 }
