@@ -1,16 +1,16 @@
 {
   "name": "SPIDEY-MD",
   "version": "10.8.1",
-  "description": "ok 3 devs made it",
+  "description": "ok spidey made it",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Demon-Slayer",
-    "stop": "pm2 stop SPIDEY-MD",
-    "restart": "pm2 restart SPIDEY-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name spidey-md",
+    "stop": "pm2 stop spidey-md",
+    "restart": "pm2 restart spidey-md"
   },
-  "keywords": ["demom-slayer", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Marisel",
+  "keywords": ["spidey-md", "whatsapp-bot", "whatsapp md bot"],
+  "author": "Am Spidey",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
